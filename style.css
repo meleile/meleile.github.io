@@ -46,7 +46,7 @@ main {
     padding: 10px;
 }
 .sidebar-img { 
-    width: 22px;
+    width: 115px;
 }
 .content {
     flex: 1;
@@ -71,7 +71,7 @@ h2, h3 {
 }
 
 #portfolio li {
-    background: rgb(120, 187, 253)
+    background: rgb(120, 187, 253);
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
