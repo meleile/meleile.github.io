@@ -54,6 +54,7 @@ for (var lc = 0; lc < 100; lc++){
             physikz.updatePosition(circles[2]);
             physikz.updatePosition(circles[3]);
             physikz.updatePosition(circles[4]);
+            
             // TODO 5 / 10 : Call game.checkCirclePosition() on your circles.
            game.checkCirclePosition(circles[0])
            game.checkCirclePosition(circles[1])
