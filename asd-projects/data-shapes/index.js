@@ -38,8 +38,10 @@ $(document).ready(function () {
   /////////////////////////////////////////////////
 
   // TODO 1: create a new shape object and add it to the array
-  
-
+  var shape = "circle"
+  color = "blue"
+  repeat = 3
+  dataShapes = []
   // TODO 2: add a new property to all data shapes
   
 
